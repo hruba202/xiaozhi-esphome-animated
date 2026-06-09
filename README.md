@@ -1,4 +1,3 @@
-# xiaozhi-esphome-animated
-My animated version of xiaozhi-esphome w/ home assistant
-
-Works on ball v2
+I have modified the code for this panel crow panel 7" advance v1.3
+All credit to the author
+https://github.com/RealDeco/xiaozhi-esphome-animated
