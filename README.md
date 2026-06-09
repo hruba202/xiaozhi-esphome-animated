@@ -1,3 +1,3 @@
-I have modified the code for this panel crow panel 7" advance v1.3
+I have modified the code for  crow panel 7" advance v1.3
 All credit to the author
 https://github.com/RealDeco/xiaozhi-esphome-animated
